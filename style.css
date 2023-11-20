@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com');
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+h1{
+  color: rgb(41,41,41);
+  text-align: center;
+  font-family: 'Pixelify Sans', cursive;
+  text-align: 50px
+
+}
+
+body{
+ background-color: rgb(135,206,235);
+  display: center;
+}
+
+main {
+  position: absolute;
+  top: 100px;
+  left:660px;
+}
